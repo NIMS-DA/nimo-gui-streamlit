@@ -11,13 +11,13 @@ NIMO must be installed from [https://nims-da.github.io/nimo](https://github.com/
   1. Download or clone the github repository
 
   ```
-  git clone https://github.com/NIMS-DA/nimo-controller
+  git clone https://github.com/NIMS-DA/nimo-gui-streamlit
   ```
 
-  2. Install using poetry in the nimo-controller-main folder
+  2. Install using poetry in the nimo-gui-streamlit folder
 
   ```bash
-  cd nimo-controller-[latest version]
+  cd nimo-gui-[latest version]
   poetry install
   ```
 
