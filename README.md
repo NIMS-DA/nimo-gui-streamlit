@@ -1,4 +1,4 @@
-# nimo-controller
+# nimo-controller-old
 This is the GUI controller of NIMO.
 The GUI starts as a browser application.
 
